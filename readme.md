@@ -30,8 +30,8 @@ Em conclusão, a "Sprint de Conhecimento" para 2024 é uma jornada emocionante q
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) - para título, conteúdo e formatação
-- [Bing] (https://www.bing.com/images/create) - Para gerar imagem
-- [Dio] (https://web.dio.me/home) - Para direcionar o projeto
+- [Bing](https://www.bing.com/images/create) - Para gerar imagem
+- [Dio](https://web.dio.me/home) - Para direcionar o projeto
 
 ### Esse conteúdo foi gerado por IA, mas foi revisado por humano!
 
